@@ -1,9 +1,1 @@
-All five student-recorded narrations are included here.
-
-gallery-01.mp3 - Gallery 1
-gallery-02.mp3 - Gallery 2
-gallery-03.mp3 - Gallery 3
-gallery-04.mp3 - Gallery 4
-gallery-05.mp3 - Gallery 5
-
-Keep these MP3 files in this audio folder beside the main index.html folder.
+The museum narration files are included as gallery-01.mp3 through gallery-05.mp3. The index.html file uses these relative URLs for audio playback.
